@@ -15,6 +15,7 @@
 		D061C1212BD0011E00EA8B26 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D061C11F2BD0011E00EA8B26 /* chimeup.mp3 */; };
 		D061C1282BD0047E00EA8B26 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D061C1272BD0047E00EA8B26 /* OnboardingView.swift */; };
 		D061C12A2BD0048B00EA8B26 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D061C1292BD0048B00EA8B26 /* HomeView.swift */; };
+		D061C12E2BD0071800EA8B26 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D061C12D2BD0071800EA8B26 /* ColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		D061C1262BD0042E00EA8B26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		D061C1272BD0047E00EA8B26 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		D061C1292BD0048B00EA8B26 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		D061C12D2BD0071800EA8B26 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		D061C1252BD002A400EA8B26 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				D061C12D2BD0071800EA8B26 /* ColorExtension.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -189,6 +192,7 @@
 				D061C12A2BD0048B00EA8B26 /* HomeView.swift in Sources */,
 				D061C1132BCFFF9900EA8B26 /* ContentView.swift in Sources */,
 				D061C1112BCFFF9900EA8B26 /* RestartApp.swift in Sources */,
+				D061C12E2BD0071800EA8B26 /* ColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
